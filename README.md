@@ -23,10 +23,6 @@ This repository contains SQL queries designed to perform analytical operations o
 
 Feel free to fork the repository and submit pull requests to improve or add new queries.
 
-📄 License
-
-This project is licensed under the MIT License.
-
 
 
 
