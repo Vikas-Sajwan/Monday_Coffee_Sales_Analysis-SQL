@@ -19,10 +19,6 @@ This repository contains SQL queries designed to perform analytical operations o
 14.	List all customers who haven't made any purchases?
 
 
-🤝 Contributions
-
-Feel free to fork the repository and submit pull requests to improve or add new queries.
-
 
 
 
