@@ -28,7 +28,7 @@ If you'd like to contribute:
 
 1.Fork the repository
 
-  Make a personal copy of the reposetory.
+   Make a personal copy of the reposetory.
 
 2.Create a new branch for your feature or fix
 
@@ -36,15 +36,15 @@ If you'd like to contribute:
 
 3.Make your changes
 
-  Update the code, fix bugs or add new features.
+   Update the code, fix bugs or add new features.
 
 4.Commit and push your changes
 
-  Make sure to include clear commit message explaining what have you done.
+   Make sure to include clear commit message explaining what have you done.
     
 5.Submit a pull request (PR)
 
-  Once you're ready, open a PR for review.
+   Once you're ready, open a PR for review.
 
 
 Done! That's it_thanks for contributing! We will review your PR as soon as possible.
