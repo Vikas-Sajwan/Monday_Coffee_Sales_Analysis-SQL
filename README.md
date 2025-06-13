@@ -32,7 +32,7 @@ If you'd like to contribute:
 
 2.Create a new branch for your feature or fix
 
- Start working on your changes in a separate branch fore better tracking.
+  Start working on your changes in a separate branch fore better tracking.
 
 3.Make your changes
 
