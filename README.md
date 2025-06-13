@@ -20,6 +20,30 @@ This repository contains SQL queries designed to perform analytical operations o
 
 
 
+🤝 Contribution
+We welcome contributions to enhance the Monday Coffee Sales Analysis project!
+
+If you'd like to contribute:
+
+1.Fork the repository.
+2.Clone your fork to your local machine:
+    git clone https://github.com/your-username/monday-coffee-sales-analysis.git
+3.Create a new branch for your feature or fix:
+    git checkout -b feature-or-fix-name
+4.Make your changes, ensuring they align with the existing style and structure.
+5.Commit your updates with clear and concise messages:
+    git commit -m "Add feature XYZ" or "Fix issue with ABC"
+6.Push your branch to your GitHub fork:
+    git push origin feature-or-fix-name
+7.Open a Pull Request to the main branch of this repo and describe your changes.
+
+
+
+    
+
+
+
+
 
 
 
